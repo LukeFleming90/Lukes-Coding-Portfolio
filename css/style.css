@@ -1,3 +1,28 @@
 .underline-on-hover:hover {
     text-decoration: underline;
 }
+
+.ptb-100 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+} 
+
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
+.formthree .form-control {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    font-size: 13px;
+    border-bottom: 1px solid #d3d3d3;
+    background: transparent;
+}
