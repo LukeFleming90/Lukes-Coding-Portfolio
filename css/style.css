@@ -26,3 +26,13 @@
     border-bottom: 1px solid #d3d3d3;
     background: transparent;
 }
+
+.prof {
+    opacity: 0.7;
+    position: relative;
+    z-index: 1;
+}
+  
+.prof:hover {
+    opacity: 1.0;
+}
