@@ -80,3 +80,7 @@
 .top:hover, .botleft:hover, .botright:hover {
     opacity: .3;
 }
+
+.project-picture {
+    object-fit: contain;
+}
